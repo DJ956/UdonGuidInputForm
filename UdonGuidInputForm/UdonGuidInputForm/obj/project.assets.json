@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dexte\\source\\repos\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm.csproj",
+      "projectUniqueName": "E:\\Documents\\GitHub\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm.csproj",
       "projectName": "UdonGuidInputForm",
-      "projectPath": "C:\\Users\\dexte\\source\\repos\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm.csproj",
+      "projectPath": "E:\\Documents\\GitHub\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm.csproj",
       "packagesPath": "C:\\Users\\dexte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dexte\\source\\repos\\UdonGuidInputForm\\UdonGuidInputForm\\obj\\",
+      "outputPath": "E:\\Documents\\GitHub\\UdonGuidInputForm\\UdonGuidInputForm\\UdonGuidInputForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dexte\\AppData\\Roaming\\NuGet\\NuGet.Config",
