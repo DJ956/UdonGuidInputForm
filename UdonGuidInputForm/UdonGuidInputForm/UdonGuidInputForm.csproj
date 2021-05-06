@@ -4,6 +4,10 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>UdonGuidInputForm.Program</StartupObject>
+    <Authors>DJ956</Authors>
+    <Company>DJ956</Company>
+    <Product>うどんガイドブック入力フォーム</Product>
   </PropertyGroup>
 
 </Project>

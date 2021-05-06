@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UdonGuidInputForm")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DJ956")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("UdonGuidInputForm")]
+[assembly: System.Reflection.AssemblyProductAttribute("うどんガイドブック入力フォーム")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdonGuidInputForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]

@@ -72,7 +72,6 @@ namespace UdonGuidInputForm
             {
                 holiday += holidays[key];
             }
-            builder.Append($"'{holiday}',");
             //コインパーキングあり
             bool existsCoin = checkBoxCoin.Checked ? true : false;
             //駐車場有
